@@ -1,0 +1,4 @@
+c:\users\c&s\source\repos\ProjetoMicroOndas\Regras\obj\Debug\Regras.csprojAssemblyReference.cache
+c:\users\c&s\source\repos\ProjetoMicroOndas\Regras\obj\Debug\Regras.Properties.Resources.resources
+c:\users\c&s\source\repos\ProjetoMicroOndas\Regras\obj\Debug\Regras.csproj.GenerateResource.cache
+c:\users\c&s\source\repos\ProjetoMicroOndas\Regras\obj\Debug\Regras.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\bin\Debug\peMicroOndas.dll
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\bin\Debug\peMicroOndas.pdb
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\obj\Debug\peMicroOndas.csprojAssemblyReference.cache
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\obj\Debug\peMicroOndas.csproj.CoreCompileInputs.cache
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\obj\Debug\peMicroOndas.dll
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas\peMicroOndas\obj\Debug\peMicroOndas.pdb
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\bin\Debug\peMicroOndas.dll
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\bin\Debug\peMicroOndas.pdb
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\obj\Debug\peMicroOndas.csprojAssemblyReference.cache
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\obj\Debug\peMicroOndas.csproj.CoreCompileInputs.cache
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\obj\Debug\peMicroOndas.dll
+C:\Users\C&S\Desktop\ProjetoMicroOndas_v2\peMicroOndas\obj\Debug\peMicroOndas.pdb
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas_v3\peMicroOndas\bin\Debug\peMicroOndas.dll
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas_v3\peMicroOndas\bin\Debug\peMicroOndas.pdb
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas_v3\peMicroOndas\obj\Debug\peMicroOndas.csproj.CoreCompileInputs.cache
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas_v3\peMicroOndas\obj\Debug\peMicroOndas.dll
+C:\Users\crpsilva\source\repos\ProjetoMicroOndas_v3\peMicroOndas\obj\Debug\peMicroOndas.pdb

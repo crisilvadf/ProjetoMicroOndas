@@ -1,0 +1,12 @@
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\bin\Debug\Negocio.dll
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\bin\Debug\Negocio.pdb
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.dll
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.pdb
+c:\users\c&s\source\repos\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\Projects\ProjetoMicroOndas\Negocio\bin\Debug\Negocio.dll
+E:\Projects\ProjetoMicroOndas\Negocio\bin\Debug\Negocio.pdb
+E:\Projects\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+E:\Projects\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Projects\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.dll
+E:\Projects\ProjetoMicroOndas\Negocio\obj\Debug\Negocio.pdb
